@@ -1,11 +1,21 @@
+<img width=100% bottom=50px src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/9a5298df-0d06-4f84-b641-484b2e1a8f2a"/>
+<br>
+<br>
 
-# Hi, i'm Sophia👋 Welcome to my Github profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=1500&pause=1000&color=162FF7&center=true&vCenter=true&random=false&width=1000&height=75&lines=Hi%2C+i'm+Sophia%F0%9F%91%8B;Welcome+to+my+Github+profile%E2%9D%A4%EF%B8%8F;I'm+Software+engineering+student)](https://git.io/typing-svg)
+
 
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sophia-baldeon-6a6783237)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sophianellylb@gmail.com)   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Nellylb#0590)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sophianelly_/)
 
+<br>
+<br>
 
-![SophiaNelly github Stats](https://github-readme-stats.vercel.app/api?username=SophiaNelly&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+<div aling="center">
+  
+  ![SophiaNelly github Stats](https://github-readme-stats.vercel.app/api?username=SophiaNelly&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+</div>
 
 
 ### My skills
