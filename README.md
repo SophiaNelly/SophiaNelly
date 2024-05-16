@@ -29,3 +29,6 @@
 <br>
 
 ![SophiaNelly Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaNelly&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
+
+<img width=100% bottom=50px src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/df6a416c-e8f3-4919-87e6-8df6ce350ddd"/> 
