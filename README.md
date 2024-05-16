@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-baldeon-6a6783237/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sophianellylb@gmail.com)   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Nellylb#0590)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sophianelly_/)
 
 <br>
-<br>
 
 <div aling="center">
   
@@ -26,5 +25,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+<br>
 
 ![SophiaNelly Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaNelly&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
