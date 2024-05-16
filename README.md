@@ -1,4 +1,5 @@
-<img width=100% bottom=50px src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/24729cc5-72ae-44a8-b823-900237a8d9dd"/>
+<img width=100% bottom=50px src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/0a60cc17-5d34-4876-9522-341c86efbf0d"/>
+<br>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=1500&pause=1000&color=162FF7&center=true&vCenter=true&random=false&width=1000&height=75&lines=Hi%2C+i'm+Sophia%F0%9F%91%8B;Welcome+to+my+Github+profile%E2%9D%A4%EF%B8%8F;I'm+Software+engineering+student)](https://git.io/typing-svg)
@@ -30,5 +31,6 @@
 
 ![SophiaNelly Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaNelly&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
+<br>
 
 <img width=100% bottom=50px src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/2876d5d3-1cc8-4f15-96b5-c8317648b918"/> 
