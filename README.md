@@ -1,7 +1,5 @@
 <img width=100% bottom=50px src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/9a5298df-0d06-4f84-b641-484b2e1a8f2a"/>
 <br>
-<br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=1500&pause=1000&color=162FF7&center=true&vCenter=true&random=false&width=1000&height=75&lines=Hi%2C+i'm+Sophia%F0%9F%91%8B;Welcome+to+my+Github+profile%E2%9D%A4%EF%B8%8F;I'm+Software+engineering+student)](https://git.io/typing-svg)
 
