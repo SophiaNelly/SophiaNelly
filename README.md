@@ -16,6 +16,7 @@
 
 </div>
 
+<br>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F5F7F4&random=false&width=435&lines=My+skills)](https://git.io/typing-svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
