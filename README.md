@@ -13,8 +13,6 @@
 
 <div aling="center">
   
-  ![SophiaNelly github Stats](https://github-readme-stats.vercel.app/api?username=SophiaNelly&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
 </div>
 
 <br>
