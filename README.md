@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SophiaNelly.SophiaNelly" />
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=150&size=35&duration=1500&pause=1000&color=3C2264&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+i'm+Sophia+o%2F+;I'm+19+yo+++++++++++++++++++++++++++++++++;Welcome+to+my+Github+profile%E2%9D%A4%EF%B8%8F;I'm+software+engineering+student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=35&duration=1500&pause=1000&color=3C2264&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+i'm+Sophia+o%2F+;I'm+19+yo+++++++++++++++++++++++++++++++++;Welcome+to+my+Github+profile%E2%9D%A4%EF%B8%8F;I'm+software+engineering+student" />
 </h1>
     
 <br>
