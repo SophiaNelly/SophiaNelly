@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/0a60cc17-5d34-4876-9522-341c86efbf0d"/>
+<img align="rigth" src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/0a60cc17-5d34-4876-9522-341c86efbf0d"/>
 <br>
 <br>
 
