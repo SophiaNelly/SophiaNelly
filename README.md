@@ -3,33 +3,35 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=35&duration=1500&pause=1000&color=3C2264&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+i'm+Sophia+o%2F+;Welcome+to+my+Github+profile%E2%9D%A4%EF%B8%8F;" />
 </h1>
-    
-<br>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F5F7F4&random=false&width=435&lines=How+to+reach+me)](https://git.io/typing-svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-baldeon-6a6783237/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sophianellylb@gmail.com)   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/N8dQn8BJ) 
-
-<br>
-
-<div aling="center">
+<h3 align="center"> Languages-Frameworks-Tools </h3>
+<br/>
+<div align="center">
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=java,html,css,js,py,postgres,git,vscode,eclipse,figma" />
+  </a>
   
-</div>
+<br/><br/>
 
-<br>
+  <div align="center">
+<a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com?user=SophiaNelly&theme=shades-of-purple&hide_border=true&border_radius=3.5&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" />
+ </a>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F5F7F4&random=false&width=435&lines=My+skills)](https://git.io/typing-svg)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h3 align="center"> How to reach me </h3>
+<br/>
+<div align="center">
 
+<a href="www.linkedin.com/in/sophia-baldeon">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<br>
-
-![SophiaNelly Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaNelly&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-
-<br>
-
-<img align="rigth" src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/2876d5d3-1cc8-4f15-96b5-c8317648b918"/> 
+  <a href="https://discord.gg/UxwMUnNX">
+   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  
+<a href="mailto:sophianellylb@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
 
