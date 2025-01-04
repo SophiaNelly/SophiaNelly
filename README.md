@@ -1,8 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SophiaNelly.SophiaNelly" />
 
-<img align="rigth" src="https://github.com/SophiaNelly/SophiaNelly/assets/141098153/0a60cc17-5d34-4876-9522-341c86efbf0d"/>
-<br>
-<br>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?
+    font-Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines-Hi+There!+;+I Im+Pedro+Muniz!;+IWelcome+to+my+Github+profile!; />
+ </h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=1500&pause=1000&color=3C2264&center=true&vCenter=true&random=false&width=1000&height=75&lines=Hi%2C+i'm+Sophia+o%2F+;I'm+19+yo+++++++++++++++++++++++++++++++++;Welcome+to+my+Github+profile%E2%9D%A4%EF%B8%8F;I'm+software+engineering+student)](https://git.io/typing-svg)
 
